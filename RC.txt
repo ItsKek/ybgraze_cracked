@@ -172,7 +172,6 @@ echo "$purpleЗапустить скрипт$white: python3 SCRIPT.py"
 echo " "
 echo " "
 echo "$bold © 2022 Linux Terminal Server Implementation in Website | Coded by itskekoff | Cracked by itskekoff"
-echo "$purple$bold build v2.0 | GOODGAMEMAGA & itskekoff"
 echo "$white Powered by GoTTY"
 echo " "
 if ! [ -f $HOME/startcustom.sh ];
